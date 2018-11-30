@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(26): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  BasicFunction.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\BasicFunction\Debug\BasicFunction.exe
+  BasicFunction.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\BasicFunction\Debug\BasicFunction.pdb (Partial PDB)
