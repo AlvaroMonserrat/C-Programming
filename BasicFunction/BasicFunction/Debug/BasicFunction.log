@@ -1,8 +1,5 @@
 ﻿  main.c
 c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(23): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
-c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(42): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
 c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(32): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
   c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(32): note: los marcadores de posición y sus parámetros esperan 3 argumentos variádicos, pero se proporcionaron 2
   c:\users\alvar\source\repos\c-programming\basicfunction\basicfunction\main.c(32): note: el argumento variádico 3 que falta es requerido por la cadena de formato '%c'
