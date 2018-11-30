@@ -5,29 +5,53 @@
 ---------------------------------------------------------------------------------*/
 #include<stdio.h>
 
-int sum(int x, int y);
+#define MAX_ARRAYSIZE (50)
 
-int main() {
+void metricFunction(int n, float *a, char *b);
 
-	int a, b;
-	int result;
+int main(void) {
 
-	printf("Ingrese un numero: \n");
-	scanf_s("%d", &a);
+	float inputData[MAX_ARRAYSIZE];
+	char inputDataType[MAX_ARRAYSIZE];
+	int numberOfData;
 
-	printf("Ingrese otro numero: \n");
-	scanf_s("%d", &b);
+	scanf_s("%d", &numberOfData);
 
-	printf("Los numeros son %d y %d.\n", a, b);
+	/*Conversión de datos*/
+	metricFunction(numberOfData, inputData, inputDataType);
 
-	result = sum(a, b);
-	printf("La suma es: %d\n", result);
-	
 	system("pause");
 
 	return 0;
 }
 
-int sum(int x, int y) {
-	return x + y;
+
+void metricFunction(int n, float *a, char *b) {
+
+	for (int i = 0;i < n;i++) {
+		scanf_s("%f %c", &a[i], &b[i]);
+		if (b[i] == 'm') {
+			a[i] = (a[i] / 0.3048);
+		}
+		else if (b[i] == 'g')
+		{
+			a[i] = (a[i] * 0.002205);
+		}
+		else if (b[i] == 'c')
+		{
+			a[i] = (a[i]*1.8+ 32 );
+		}
+	}
+
+	printf("\n");
+
+	for (int i = 0;i < n;i++) {
+		printf("%.6f %c\n", a[i], b[i]);
+	}
 }
+
+/*
+	1 foot = 0.3048 meters;
+	1 gram = 0.002205 pounds;
+	temperature in degrees Fahrenheit = 32 + 1.8 × temperature in degrees Celsius.
+*/
