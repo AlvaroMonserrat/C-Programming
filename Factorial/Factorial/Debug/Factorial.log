@@ -1,4 +1,4 @@
 ﻿  main.c
-c:\users\alvar\source\repos\c-programming\factorial\factorial\main.c(18): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+c:\users\alvar\source\repos\c-programming\factorial\factorial\main.c(23): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
   Factorial.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Factorial\Debug\Factorial.exe
   Factorial.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Factorial\Debug\Factorial.pdb (Partial PDB)

@@ -13,7 +13,12 @@ int main() {
 
 	result = factorialOf(value);
 
-	printf("\nEl factorial del numero ingresado es: %d\n\n", result);
+	if (value >= 0) {
+		printf("\nEl factorial del numero ingresado es: %d\n\n", result);
+	}
+	else {
+		printf("Valor ingresado: %d\n", value);
+	}
 
 	system("pause");
 	return 0;
@@ -27,7 +32,7 @@ int factorialOf(int number) {
 		return number*factorialOf(number - 1);
 	}
 	else {
-		printf("Error: valor ingresado no valido");
+		printf("Error: valor ingresado no valido\n");
 		return -1;
 	}
 }
