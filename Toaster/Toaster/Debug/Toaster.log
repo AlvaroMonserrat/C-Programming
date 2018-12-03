@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\toaster\toaster\main.c(21): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  Toaster.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Toaster\Debug\Toaster.exe
+  Toaster.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Toaster\Debug\Toaster.pdb (Partial PDB)
