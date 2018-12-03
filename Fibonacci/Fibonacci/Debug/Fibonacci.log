@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\fibonacci\fibonacci\main.c(27): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  Fibonacci.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Fibonacci\Debug\Fibonacci.exe
+  Fibonacci.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Fibonacci\Debug\Fibonacci.pdb (Partial PDB)
