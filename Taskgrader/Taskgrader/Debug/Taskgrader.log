@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\taskgrader\taskgrader\main.c(20): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+c:\users\alvar\source\repos\c-programming\taskgrader\taskgrader\main.c(32): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\alvar\source\repos\c-programming\taskgrader\taskgrader\main.c(32): note: los marcadores de posición y sus parámetros esperan 3 argumentos variádicos, pero se proporcionaron 2
+  c:\users\alvar\source\repos\c-programming\taskgrader\taskgrader\main.c(32): note: el argumento variádico 3 que falta es requerido por la cadena de formato '%c'
+  c:\users\alvar\source\repos\c-programming\taskgrader\taskgrader\main.c(32): note: este argumento se utiliza como un tamaño de búfer
+  Taskgrader.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Taskgrader\Debug\Taskgrader.exe
+  Taskgrader.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\Taskgrader\Debug\Taskgrader.pdb (Partial PDB)
