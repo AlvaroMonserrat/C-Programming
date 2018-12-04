@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\pointertask\pointertask\main.c(19): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  PointerTask.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\PointerTask\Debug\PointerTask.exe
+  PointerTask.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\PointerTask\Debug\PointerTask.pdb (Partial PDB)
