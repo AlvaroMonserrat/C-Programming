@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\arraypointers\arraypointers\main.c(24): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  ArrayPointers.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\ArrayPointers\Debug\ArrayPointers.exe
+  ArrayPointers.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\ArrayPointers\Debug\ArrayPointers.pdb (Partial PDB)
