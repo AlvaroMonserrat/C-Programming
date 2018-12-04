@@ -15,4 +15,4 @@ Cursos de C: www.edx.org/
 - ArrayPointers
 # -----------------------------------------------------------------
 
-## 4. Programming: Pointers and Memory Management
+## 4. C Programming: Pointers and Memory Management
