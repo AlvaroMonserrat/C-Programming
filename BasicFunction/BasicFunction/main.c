@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------------------------
 	Dartmouth_IMTx: DART.IMT.C.03
 	C Programming: Modular Programming and Memory Management
-	Unit 3.1: Functions and recursion
+	Unit 3.1: Functions and recursion.
 ---------------------------------------------------------------------------------*/
 #include<stdio.h>
 
