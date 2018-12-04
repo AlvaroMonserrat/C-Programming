@@ -12,3 +12,5 @@ C Programming: Modular Programming and Memory Management.
 - Taskgrader
 ### Unit 3.3: Pointers
 - PointerTask
+- ArrayPointers
+# -----------------------------------------------------------------
