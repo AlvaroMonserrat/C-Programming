@@ -1,8 +1,8 @@
 # C-Programming 
 Cursos de C: www.edx.org/
 
-## Dartmouth_IMTx: DART.IMT.C.03
-C Programming: Modular Programming and Memory Management.
+#  C Programming with Linux Professional Certificate offered by Dartmouth and IMT
+## 3. C Programming: Modular Programming and Memory Management.
 ### Unit 3.1: Functions and recursion.
 - BasicFunction
 - Factorial
@@ -12,3 +12,7 @@ C Programming: Modular Programming and Memory Management.
 - Taskgrader
 ### Unit 3.3: Pointers
 - PointerTask
+- ArrayPointers
+# -----------------------------------------------------------------
+
+## 4. C Programming: Pointers and Memory Management
