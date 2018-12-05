@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\behindplayer\behindplayer\main.c(21): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  BehindPlayer.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\BehindPlayer\Debug\BehindPlayer.exe
+  BehindPlayer.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\BehindPlayer\Debug\BehindPlayer.pdb (Partial PDB)
