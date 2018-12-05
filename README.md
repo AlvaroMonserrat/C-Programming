@@ -16,3 +16,7 @@ Cursos de C: www.edx.org/
 # -----------------------------------------------------------------
 
 ## 4. C Programming: Pointers and Memory Management
+### Unit 4.1: Memory and Pointers
+- BehindPlayer
+### Unit 4.2: Multidimensional arrays
+- NewCookie
