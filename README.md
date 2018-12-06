@@ -21,3 +21,5 @@ Cursos de C: www.edx.org/
 ### Unit 4.2: Multidimensional arrays
 - NewCookie
 - TextReverse
+### Unit 4.3: Dynamic memory allocation
+- allocateString
