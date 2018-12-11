@@ -23,3 +23,10 @@ Cursos de C: www.edx.org/
 - TextReverse
 ### Unit 4.3: Dynamic memory allocation
 - allocateString
+
+# -----------------------------------------------------------------
+## 5. C Programming: Advanced Data Types
+### Unit 5.1: Structures
+- StructPointer
+### Unit 5.2: Structures and pointers
+- AllocatememStruct
