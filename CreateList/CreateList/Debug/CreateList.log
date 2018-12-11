@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\createlist\createlist\main.c(20): warning C4101: 'tmp': variable local sin referencia
+  CreateList.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\CreateList\Debug\CreateList.exe
+  CreateList.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\CreateList\Debug\CreateList.pdb (Partial PDB)
