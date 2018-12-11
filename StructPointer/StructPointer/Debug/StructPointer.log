@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\alvar\source\repos\c-programming\structpointer\structpointer\main.c(29): warning C4013: 'system' sin definir; se supone que extern devuelve como resultado int
+  StructPointer.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\StructPointer\Debug\StructPointer.exe
+  StructPointer.vcxproj -> C:\Users\alvar\Source\Repos\C-Programming\StructPointer\Debug\StructPointer.pdb (Partial PDB)
